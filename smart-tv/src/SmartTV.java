@@ -1,3 +1,9 @@
+/**
+ * Classe que representa uma smart tv
+ * @author Alostterav
+ * @version 0.0.1
+ * */
+
 public class SmartTV {
     boolean statusTV = false;
     int channel = 1;
